@@ -1,0 +1,7 @@
+2026.10.07 22:38:42 INFO  Started: Metals version 1.6.9 in folders '/Users/hao.wu/test/inventroy-reservation-java' for client Cursor 1.128.0.
+2026.10.07 22:38:42 INFO  Memory monitor started
+2026.10.07 22:38:43 WARN  Using H2 2.5.250 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+Oct 07, 2026 10:40:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Oct 07, 2026 10:41:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
